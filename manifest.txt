@@ -1,2 +1,2 @@
-TEST_E_BAD
-https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_E_BAD.bin
+TEST_D_NET
+https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_D_NET.bin

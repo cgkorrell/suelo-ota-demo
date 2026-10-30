@@ -1,2 +1,2 @@
-TEST_G_GUARD
-https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_G_GUARD.bin
+TEST_G_BAD
+https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_G_BAD.bin

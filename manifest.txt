@@ -1,2 +1,2 @@
-TEST_H_OK
-https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_H_OK.bin
+TEST_H_PROBE
+https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_H_PROBE.bin

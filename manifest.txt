@@ -1,2 +1,2 @@
-TEST_F_TRUNCATED
-https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_F_TRUNCATED.bin
+TEST_E_NET
+https://raw.githubusercontent.com/cgkorrell/suelo-ota-demo/main/TEST_E_NET.bin

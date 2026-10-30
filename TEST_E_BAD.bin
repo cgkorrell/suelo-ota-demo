@@ -1,0 +1,3 @@
+SUELO TEST E: INTENTIONALLY INVALID ESP32 FIRMWARE. NOT BOOTABLE.
+This file tests the HTTPUpdate image header rejection path, not a power loss.
+Never install this on a working device. Spare ESP32 test only.
